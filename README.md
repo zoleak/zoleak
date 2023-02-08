@@ -6,6 +6,7 @@ My experience has given me a deep understanding of environmental data analysis, 
 In this GitHub repository, you will find a collection of my work showcasing my abilities and projects I have worked on. From data analysis to visualization, I am confident in my ability to tackle complex data problems and deliver actionable insights.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you're interested in collaborating on a project.
+
 **Skills:**
 <p>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
